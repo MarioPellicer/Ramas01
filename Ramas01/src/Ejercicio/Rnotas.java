@@ -14,7 +14,7 @@ public class Rnotas {
 		mayor= Math.max(mayor, nota);
 		menor= Math.min(menor, nota);
 		}
-		public static double calcularPromedio(int totalAlumnos) {
+		public static double calcularPromedio() {
 			return todo/contador;
 		}
 		public static double notaMaxima()  {
